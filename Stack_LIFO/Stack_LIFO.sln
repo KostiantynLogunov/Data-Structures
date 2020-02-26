@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_LIFO", "Stack_LIFO.csproj", "{5CC561FA-B781-4155-9D09-010516ACAEED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CC561FA-B781-4155-9D09-010516ACAEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC561FA-B781-4155-9D09-010516ACAEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC561FA-B781-4155-9D09-010516ACAEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC561FA-B781-4155-9D09-010516ACAEED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0EB8C8-A0ED-4EF9-91ED-E2079721ACF1}
+	EndGlobalSection
+EndGlobal
